@@ -26,13 +26,13 @@ There is no windows installer but these instructions have been tested and do wor
 1. Clone the vv repo to a designated folder. git clone https://github.com/bradp/vv.git vv
 
 2. Add that folder to your system path using the following steps
- a. Open an explorer window and go to Computer (or This PC).
- b. Right click on 'Computer'and choose __Properties__
- c. Choose __Advanced System Settings__
- d. Choose __Environmental Variables__ form the Advanced Tab
- e. In the "System Variables" field highlight "Path" and click edit.
- f. In the "Variable Value" field go to the end and add a semicolon – then add the vv folder path 
-   - (Example: __;C:\Users\Name\Documents\vv__)
+  a. Open an explorer window and go to Computer (or This PC).
+  b. Right click on 'Computer'and choose __Properties__
+  c. Choose __Advanced System Settings__
+  d. Choose __Environmental Variables__ form the Advanced Tab
+  e. In the "System Variables" field highlight "Path" and click edit.
+  f. In the "Variable Value" field go to the end and add a semicolon – then add the vv folder path 
+    - (Example: __;C:\Users\Name\Documents\vv__)
 
 __Running vv on a Windows Machine__
 
