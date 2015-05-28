@@ -35,9 +35,9 @@ There is no windows installer yet but these instructions have been tested and do
   * In the "Variable Value" field go to the end and add a semicolon followed by the vv folder path     
     * Eg:__;C:\Users\Name\Documents\vv__
 
-__Running vv on a Windows Machine__
+####Running vv on a Windows Machine####
 
-vv will not run from the command line so ... _either_ :
+__NB vv will not run from the command line so ... _either_ :__
 
 * Open Git Bash and run `vv`
 
