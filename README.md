@@ -21,7 +21,8 @@ Otherwise you'll want to clone and edit your `$PATH` to include the vv core file
 	
 ### Windows Install Instructions
 
-There is no windows installer but these instructions have been tested and do work
+There is no windows installer yet but these instructions have been tested and do work 
+( more info https://github.com/bradp/vv/issues/33  - based on @Vinsanity's steps )
 
 1. Clone the vv repo to a designated folder. `git clone https://github.com/bradp/vv.git vv`
 
@@ -31,13 +32,15 @@ There is no windows installer but these instructions have been tested and do wor
   * Choose __Advanced System Settings__
   * Choose __Environmental Variables__ from the Advanced Tab
   * In the "System Variables" field highlight "Path" and click "Edit"
-  * In the "Variable Value" field go to the end and add a semicolon followed by the vv folder path Eg: __;C:\Users\Name\Documents\vv__
+  * In the "Variable Value" field go to the end and add a semicolon followed by the vv folder path     
+    * Eg:__;C:\Users\Name\Documents\vv__
 
 __Running vv on a Windows Machine__
 
 vv will not run from the command line so ... _either_ :
 
 * Open Git Bash and run `vv`
+
 OR
 * from a regular command line run `bash vv`
 
