@@ -37,7 +37,7 @@ There is no windows installer yet but these instructions have been tested and do
 
 ####Running vv on a Windows Machine####
 
-__NB vv will NOT run from the command line so ... _either_ :__
+__NB vv will NOT run from the standard Windows command line so ... _either_ :__
 
 * Open Git Bash and run `vv`
 
